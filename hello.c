@@ -1,15 +1,17 @@
 /**
  * Author: Lyra Raudales
- * Date: 2021/08/24
+ * Date: 2021/08/28
  *
- * A simple 'Hello World' program in C.
+ * A program for Hack 1.0!
  *
  */
 #include <stdlib.h>
 #include <stdio.h>
 
-int main(int argc, char **argv) {
-    printf("Hello World!\n");
+int main(int argc, char **argv) 
+{
+    printf("Hello World! I'm Lyra R.!\n");
+    printf("My major is Computer Science!\n");
 
     return 0;
 }
